@@ -22,3 +22,6 @@ Esto implica dejar atras el uso de var y comenzar a implementar "let" & "const"
 
 ¿Y qué es un bloque?
 Es todo aquello definido dentro de "handle bars" = {}
+
+
+REASIGNACIÓN Y DECLARACIÓN
