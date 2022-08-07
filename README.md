@@ -40,3 +40,14 @@ A diferencia de otros conceptos como funciones, variables u otros. Los clousures
 Aprender el concepto es saber identificar cuando lo estás utilizando. Probablemente, es que ya lo has usado cientos de veces.
 
 Tienes una clousure cuando una función cualquiera accede a una variable fuera de su contexto.
+
+Las funciones pueden reasignarse para fines prácticos.
+
+
+
+HOISTING
+El hosting solo aplica a variables declaradas con var, si intentamos hacer un ejemplo similar con let o const tendremos errores.
+
+Es importante recalcar que el Hoisting en las funciones, solo afecta a aquellas que estén escritas con la sintaxis de “Function Declaration”, si intentamos con otras sintaxis, arrow o function expression, nos mandará un error.
+
+Es una elevacion que hay que cuidar en la logica de cada bloque de código, observarla nos permite entender la lógica con la que opera el lenguaje.
