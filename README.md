@@ -25,4 +25,18 @@ Es todo aquello definido dentro de "handle bars" = {}
 
 
 REASIGNACIÓN Y DECLARACIÓN
-test l
+
+Se puede declarar reasignar y usar pero no es una forma infalible de inmutabilidad, en areglos y objetos, se agregan valores a la referencia.
+
+
+MODO ESTRICTO
+Es aquel donde se vuelve necesario asignar y declarar la variable
+
+
+CLOUSURE
+Permiten acceder al ámbito de una función exterior desde una función interior. En JavaScript, las clausuras se crean cada vez que una función es creada.
+A diferencia de otros conceptos como funciones, variables u otros. Los clousures no son siempre utilizados.
+
+Aprender el concepto es saber identificar cuando lo estás utilizando. Probablemente, es que ya lo has usado cientos de veces.
+
+Tienes una clousure cuando una función cualquiera accede a una variable fuera de su contexto.

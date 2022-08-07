@@ -14,4 +14,23 @@ secondName = 'Ana'; // reasignando
 console.log(secondName);
 
 
-// let hellow
+// let
+let fruit = 'Apple'; // declarar y asignar
+fruit = 'Kiwi'; // reasignar
+console.log(fruit);
+
+let fruit = 'Banana';
+console.log(fruit);
+
+
+// const
+const animal = 'dog'; // declarando y asignando
+const animal = 'Snake'; // rearignando
+console.log(animal);
+
+const vehicles = [];
+vehicles.push("carrito");
+console.log(vehicles);
+
+vehicles.pop();
+console.log(vehicles);
